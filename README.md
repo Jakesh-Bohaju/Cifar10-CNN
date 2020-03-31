@@ -23,7 +23,7 @@
 * output : 32x32x10
 
 **1st MaxPool layer**
-* strid : 2
+* stride : 2
 * input : 32x32x10
 * output : 16x16x10
 
@@ -33,7 +33,7 @@
 * output : 16x16x20
 
 **2nd MaxPool layer**
-* strid : 2
+* stride : 2
 * input : 16x16x20
 * output : 8x8x20
 
@@ -43,7 +43,7 @@
 * output : 8x8x40
 
 **3rd MaxPool layer**
-* strid : 2
+* stride : 2
 * input : 8x8x40
 * output : 4x4x40
 
