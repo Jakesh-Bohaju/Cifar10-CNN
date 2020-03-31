@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+trainlog/
+.vscode
+__pycache__
