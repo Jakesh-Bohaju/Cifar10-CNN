@@ -47,5 +47,7 @@ input : 28
 output : 80
 *10 Target
 
+........
+
 
 
